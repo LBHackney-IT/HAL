@@ -9,8 +9,7 @@ This phase is where you start building the service and releasing it for customer
 
 It is important to continuously release parts of the service and get feedback. If you don't do that, you'll be creating an ever-larger risk that the service won't achieve its aims. 
 
-It's less that this phase is applicable if you're using off the shelf software. However, the principles can be applied if you want to extend the use of the software to multiple services. 
-
+This phase is unlikely to be useful if you are using off-the-shelf software.
 
 <h2  id="C1">Team and skills</h2>
 
@@ -28,7 +27,7 @@ However, the roles of the service designer and user researcher remain important 
 <li>A subject matter expert</li>
 </ul>
 
-And may involve:
+At times, you will also need to involve:
 
 <ul>
 <li>Information governance </li>
@@ -58,7 +57,7 @@ At the end of the phase, you will need to request a service standard assessment 
 The key tool in the building phase will be the user stories. Each user story needs to contain acceptance criteria detailing how it should work technically and what it needs to achieve for customers. In essence, the build phase is a process of working through each user story until it is ‘done’ and then moving onto the next story. 
 
 The tools which can help with this include:
-<ul class="c5 lst-kix_vaularjx6ft7-0 start"><li class="c0"><span>Kanban boards (either physically or digital boards like </span><span class="c15"><a class="c6" href="https://www.google.com/url?q=https://trello.com/&amp;sa=D&amp;ust=1496573525750000&amp;usg=AFQjCNGz0gdJVZNrKFsdQJwxWYDZbxwyTw">Trello </a></span><span>or </span><span class="c15"><a class="c6" href="https://www.google.com/url?q=https://jira.atlassian.com/&amp;sa=D&amp;ust=1496573525751000&amp;usg=AFQjCNFtWs0JFHcx31G1uPY5Op8Stok_Ig">JIRA</a></span><span class="c1">)</span></li><li class="c0"><span class="c1">Story estimation</span></li><li class="c0"><span class="c1">Sprint Planning</span></li><li class="c0"><span class="c1">Calculating a ‘velocity’ rate - the speed at which the team is able to deliver a story point</span></li></ul>
+<ul class="c5 lst-kix_vaularjx6ft7-0 start"><li class="c0"><span>Kanban boards (either physically or digital boards like </span><span class="c15"><a class="c6" href="https://www.google.com/url?q=https://trello.com/&amp;sa=D&amp;ust=1496573525750000&amp;usg=AFQjCNGz0gdJVZNrKFsdQJwxWYDZbxwyTw">Trello </a></span><span>or </span><span class="c15"><a class="c6" href="https://www.google.com/url?q=https://jira.atlassian.com/&amp;sa=D&amp;ust=1496573525751000&amp;usg=AFQjCNFtWs0JFHcx31G1uPY5Op8Stok_Ig">JIRA</a></span><span class="c1">)</span></li><li class="c0"><span class="c1">Story estimation</span></li><li class="c0"><span class="c1">Sprint Planning</span></li><li class="c0"><span class="c1">Calculating a ‘velocity’ rate - the speed at which the team is able to deliver a story point</span></li><li><a href="https://docs.google.com/document/d/1RcPeID2j-MlOD7yeHHh-SndzW08Ya7Asu6H31CODemo">Team healthcheck</a></li></ul>
 
 To successfully complete the phase, you may also find useful:
 
@@ -75,7 +74,19 @@ This phase of work can take a few weeks or several months. The length of the pha
 
 <h2  id="C6">End of phase checklist</h2>
 We have:
-<ul class="c5"><li class="c9"><span class="c1">A service that works for users first time, unaided and evidence to show that it meets their needs</span></li><li class="c9"><span class="c1">A team that can support the service, have a shared understanding of how it works and understands the remaining user stories and how to achieve them</span></li><li class="c9"><span class="c1">Tested the service end-to-end in an environment similar to the live environment, on all common browsers and devices</span></li><li class="c9"><span class="c1">Promoted the service</span></li><li class="c9"><span class="c1">Started measuring the performance of the service</span></li><li class="c9"><span class="c1">Support for those who cannot use a digital service without assistance</span></li><li class="c9"><span class="c1">A plan for what to do if the service is unavailable</span></li><li class="c9"><span>Tested the service with the Cabinet member responsible (</span><span>or the senior officer to which they delegated</span><span class="c1">&nbsp;this)</span></li></ul>
+<ul class="c5"><li class="c9"><span class="c1">A service that works for users first time, unaided and evidence to show that it meets their needs</span></li>
+ 
+ <li class="c9"><span class="c1">A team that can support the service, have a shared understanding of how it works and understands the remaining user stories and how to achieve them</span></li>
+ 
+ <li class="c9"><span class="c1">Tested the service end-to-end in an environment similar to the live environment, on all common browsers and devices</span></li><li class="c9"><span class="c1">Promoted the service</span></li><li class="c9"><span class="c1">Started measuring the performance of the service</span></li>
+ 
+ <li class="c9"><span class="c1">Support for those who cannot use a digital service without assistance</span></li><li class="c9"><span class="c1">A plan for what to do if the service is unavailable</span></li>
+ 
+ <li class="c9"><span class="c1">A completed Service Standard assessment, published on HackIT.org.uk</li>
+ 
+ <li class="c9"><span class="c1">An updated, completed Privacy Impact assessment</li>
+ 
+ <li class="c9"><span>Tested the service with the Cabinet member responsible (</span><span>or the senior officer to which they delegated</span><span class="c1">&nbsp;this)</span></li></ul>
 
 
 
