@@ -1,3 +1,8 @@
+---
+layout: post
+title: About this methodology
+---
+
 <h2>Before you start</h2>
 This methodology is rooted in the ‘double-diamond’ - a way of thinking developed by the International Design Organisation and used by global organisations to tackle problems and challenges. During any phase of work you may be considering lots of options, before converging on a solution. There's no point when you're solving a problem when you shouldn't be open to new ideas. However, this is very different from a 'waterfall' approach when you spend the first part of a project defining the requirements, and the second part delivering these requirements.
 
