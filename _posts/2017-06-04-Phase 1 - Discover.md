@@ -6,9 +6,12 @@ title: Phase 1 - Discover
 <table>
 <tr>
 <td class="mainContent" >
-The discovery phase enables you to form a team around a clear understanding of a problem. We always start with a discovery exercise, even if a service has already identified a particular software solution. The end of a discovery phase helps us understand whether we can reuse an existing piece of software, buy something or need to build some, or all, of the solution. 
+The discover phase enables you to form a team around a clear understanding of a problem. 
 
 This is important because work often starts because someone believes they’ve found a potential solution and just wants it to be implemented. Sometimes that solution turns out to partially solve the problem, particularly when that problem is complex. If the implementation takes time or costs money the work may have made that problem worse. 
+
+Therefore, the discover phase is useful if a service is considering purchasing a solution ‘off the shelf’ but not if a piece of technology has already been procured.
+
 
 <h2 id="C1">Team and skills</h2>
 You may not be able to assemble a large team at the start of the project. However, you should try to build a core group that can take you through the whole project lifecycle. 
@@ -22,32 +25,30 @@ Even if your team is one or two people, they will need to play the following rol
 <li>A user researcher</li>
 </ul>
 
-It won't always be possible to identify a Product Owner before the Discovery phase begins, but you can use the workshops and show and tells to identify people who might have the skills and interest to be a Product Owner.
-
-It is not essential to have a developer working full-time during Discovery, but it is important to have input so that:
-<ul>
- <li> They can understand the user needs</li>
- <li> They can advise on the achievability of the solution</li>
-
 You may also find it useful to include:
 
 <ul>
 <li>A business analyst</li>
-<li>A delivery manager</li>
+<li>A project manager</li>
 <li>A subject matter expert</li>
 <li>Frontline staff (someone who deals with customers on a daily basis)</li>
 </ul>
-
-Discovery projects work best when everyone has clear areas of responsibility but the team talks regularly to share what they learn. It's important that team members don't simply read what others have produced but are responsible for ensuring they've understood it and probed it from their own perspective and professional skillset. 
+Discover projects work best when everyone has clear areas of responsibility but the team talks regularly to share what they learn. It's important that team members don't simply read what others have produced but are responsible for ensuring they've understood it and probed it from their own perspective and professional skillset. 
 <table><tbody><tr class="c8"><td class="c13" colspan="1" rowspan="1"><p class="c3"><span>See: </span><span class="c15"><a class="c6" href="https://www.google.com/url?q=https://docs.google.com/a/hackney.gov.uk/document/d/1GP5R00bBdxKTEcdOS-8Yk-AkwcxCG8uQHEC39RKiYz0/edit?usp%3Dsharing&amp;sa=D&amp;ust=1496573525656000&amp;usg=AFQjCNH9jxr0RxeBPO-l728j4Y3zIwUsnA">Roles in an Agile team</a></span></p></td></tr></tbody></table>
 
 <h2 id="C2">Governance</h2>
 
 Our manifesto says it’s better to take small, quick steps than to embark on long journeys. So you can spend up to two weeks working to develop a project without any formal governance, provided this isn’t at the expense of other work. 
 
-The Relationship Manager will usually take responsibility for setting up a Discovery phase. To formally initiate a project you will need the agreement of the ICT steering group (or equivalent) of the relevant directorate. We use the template provided by the Digital Outcomes framework to explain the vision and intended scope of hte work. This means that if you need to procure an agency to support the project, you don't have to produce multiple documents saying similar things. 
+ 
 
+To formally initiate a project you will need the agreement of the ICT steering group of the relevant directorate. This needs to clearly express what you’re exploring, what you’d like to achieve (in terms of costs and benefits) and the initial resources required to validate this, so that the Steering Group can make an informed decision. The Business Relationship Manager can get space on the agenda. 
 
+ 
+
+Your pitch to the steering group should be proportionate to the resources you're looking to invest in the discovery and the scale of the challenge you're tackling. 
+
+ 
 
 At the end of the phase, should you wish to continue with the project, you will need to book an assessment of the work against the Local Government Digital Service Standard. You should look to ask two assessors to hear a presentation capturing what you’ve learnt and how you will move to the next stage. These may be colleagues within ICT but should not be associated with the project. 
 
@@ -57,13 +58,13 @@ For larger projects (eg over £100,000 or affecting more than 5,000 residents) y
 
  
 
-Assessments are published on our microsite <a class="c6" href:="https:hackit.org.uk">HackIT.org.uk</a> 
+Assessments are published on this website. 
 
 
 <h2 id="C3">Tools</h2>
 
 
-There are a number of research techniques and workshop-based tools that can help you during Discovery:
+There are a number of research techniques and workshop-based tools that can help you during a discover phase:
 <ul><li><span class="c15"><a class="c6" href="https://www.google.com/url?q=https://hackit-playbook.github.io/Tactic-10-Developing-a-vision/&amp;sa=D&amp;ust=1496573525665000&amp;usg=AFQjCNGvWZpEQvZQ_6X7s-_jdNIpyQ0WgQ">Vision statement</a></span></li><li><span class="c1">Stakeholder mapping</span></li><li><span class="c1">User interviews</span></li><li><span class="c15"><a class="c6" href="https://www.google.com/url?q=https://hackit-playbook.github.io/Tactic-6-Understanding-your-users/&amp;sa=D&amp;ust=1496573525666000&amp;usg=AFQjCNGHCaGxTBvBbUEoSHQ9NbN3pyuNtw">Personas</a></span></li><li><span class="c1">User stories &nbsp;or &lsquo;Epics&rsquo;</span></li><li><span class="c15"><a class="c6" href="https://www.google.com/url?q=https://hackit-playbook.github.io/Tactic-8-How-Might-We/&amp;sa=D&amp;ust=1496573525668000&amp;usg=AFQjCNFcsjSrr7JAmT5IGwfs75MDOV0hXw">&lsquo;How Might We&rsquo;</a></span></li><li><span class="c1">5 Whys</span></li><li><span>Customer journey maps (eg. </span><span class="c15"><a class="c6" href="https://www.google.com/url?q=https://www.smaply.com/&amp;sa=D&amp;ust=1496573525669000&amp;usg=AFQjCNHUpFSuVV0ymaLiSDwVvCFyuuGA8Q">Smaply</a></span><span class="c1">)</span></li><li><span class="c1">Business process maps (eg Vision)</span></li><li><span class="c15"><a class="c6" href="https://www.google.com/url?q=https://www.gov.uk/service-manual/measuring-success/measuring-cost-per-transaction&amp;sa=D&amp;ust=1496573525670000&amp;usg=AFQjCNF1SeFEobPPFwR6nTRuIE9PGwkC6w">Cost per transaction calculation</a></span></li><li><span class="c1">Show &amp; Tells</span></li><li><span class="c1">Digital take-up and skills research</span></li><li><span class="c15"><a class="c6" href="https://www.google.com/url?q=https://docs.google.com/a/hackney.gov.uk/document/d/1Um2gGOu8rCXNEJ5Sm6x1P1sNmBYnb6KAP4_AyBTcJIk/edit?usp%3Dsharing&amp;sa=D&amp;ust=1496573525672000&amp;usg=AFQjCNEb98FjIMkRQs6S3HJ4KxVCi-l2KA">Project Initiation Document </a></span><span class="c1">template </span></li></ul><p class="c2"><span class="c1"></span></p>
 
 <h2  id="C4">Timing</h2>
@@ -97,9 +98,6 @@ We have:
 <li>Hypotheses for the types of improvement we may be able to deliver</li>
 
 
-<li>A business case to justify the next phase of investment required</li>
-
-<li>An assessment of the software you need to buy against the <a href="https://www.gov.uk/government/publications/technology-code-of-practice/technology-code-of-practice">Technology Code of Practice</a> (where necessary)</li>
 
 
 <td class="rightContent">
