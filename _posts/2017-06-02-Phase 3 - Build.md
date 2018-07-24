@@ -21,7 +21,7 @@ However, the roles of the service designer and user researcher remain important 
 <li>A project sponsor</li>
 <li>A Product Owner</li>
 <li>A project manager</li>
-<li>A developer (potentially a front-end and back-end developer</li>
+<li>A developer (potentially a front-end and back-end developer)</li>
 <li>A service designer</li>
 <li>A user researcher</li>
 <li>A subject matter expert</li>
@@ -82,9 +82,9 @@ We have:
  
  <li class="c9"><span class="c1">Support for those who cannot use a digital service without assistance</span></li><li class="c9"><span class="c1">A plan for what to do if the service is unavailable</span></li>
  
- <li class="c9"><span class="c1">A completed Service Standard assessment, published on HackIT.org.uk</li>
+ <li class="c9"><span class="c1">A completed Service Standard assessment, published on HackIT.org.uk</span></li>
  
- <li class="c9"><span class="c1">An updated, completed Privacy Impact assessment</li>
+ <li class="c9"><span class="c1">An updated, completed Privacy Impact assessment</span></li>
  
  <li class="c9"><span>Tested the service with the Cabinet member responsible (</span><span>or the senior officer to which they delegated</span><span class="c1">&nbsp;this)</span></li></ul>
 
