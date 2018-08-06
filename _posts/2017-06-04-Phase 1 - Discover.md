@@ -57,7 +57,7 @@ For larger projects (eg over £100,000 or affecting more than 5,000 residents) y
 
  
 
-Assessments are published on our microsite <a class="c6" href="https:hackit.org.uk">HackIT.org.uk</a>.
+Assessments are published on our microsite <a class="c6" href="https://hackit.org.uk">HackIT.org.uk</a>.
 
 
 <h2 id="C3">Tools</h2>
